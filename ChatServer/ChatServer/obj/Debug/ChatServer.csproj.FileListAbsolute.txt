@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\Administrator\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\Administrator\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\Administrator\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\Administrator\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\정재하\Desktop\Chat (2)\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\정재하\Desktop\Chat (2)\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\정재하\Desktop\Chat (2)\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\정재하\Desktop\Chat (2)\ChatServer\ChatServer\obj\Debug\ChatServer.csprojAssemblyReference.cache
+C:\Users\정재하\Desktop\Chat (2)\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\정재하\Desktop\Chat (2)\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\정재하\Desktop\Chat (2)\ChatServer\ChatServer\obj\Debug\ChatServer.pdb

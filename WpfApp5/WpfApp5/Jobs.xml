@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Jobs xmlns="">
+  <Job ENTRPRS_NM="크리스탈지노믹스(주)" PBANC_CONT="크리스탈지노믹스 2021 수시채용 공고(제품개발)" SALARY_COND="면접시 협의" />
+  <Job ENTRPRS_NM="세움시스템" PBANC_CONT="생산부 정규직 신입 구인" SALARY_COND="월 200" />
+  <Job ENTRPRS_NM="선일금고제작" PBANC_CONT="선일금고제작 각 부문별 채용" SALARY_COND="월 2,100,000만원 교통비지급 상여100 (1년미만 50 )" />
+  <Job ENTRPRS_NM="(주)혜성테크윈" PBANC_CONT="정보통신 기술직(공무 실행) 채용" SALARY_COND="연봉 경력사항에 따라 조정" />
+  <Job ENTRPRS_NM="코딩투게더" PBANC_CONT="소수정예 어린이 코딩학원(배우면서 일하실분)" SALARY_COND="월200이상" />
+  <Job ENTRPRS_NM="모모유부" PBANC_CONT="강남 공유주방에서 유부초밥을 만드시고, 배달 챙겨주실 분을 찾습니다." SALARY_COND="240만원" />
+  <Job ENTRPRS_NM="동인엔지니어링(주)" PBANC_CONT="경리.회계 및 사무관리" SALARY_COND="회사내규" />
+</Jobs>
